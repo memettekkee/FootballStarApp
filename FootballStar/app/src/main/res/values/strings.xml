@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Football Star</string>
+
+    <string name="football_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string-array name="data_name">
+
+        <item>Lionel Messi</item>
+        <item>Luis Suarez</item>
+        <item>Neymar Jr</item>
+        <item>Ivan Rakitic</item>
+        <item>Xavi Hernandez</item>
+        <item>Andres Iniesta</item>
+        <item>Sergio Busquets</item>
+        <item>Gerard Pique</item>
+        <item>Dani Alves</item>
+        <item>Jordi Alba</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+
+        <item>Lionel Andrés Messi juga dikenal sebagai Leo Messi (lahir 24 Juni 1987) adalah seorang pemain sepak bola profesional asal Argentina yang dulunya sebagai mantan legend FC Barcelona. Messi telah memenangkan tujuh penghargaan Ballon dOr, enam Sepatu Emas Eropa, dan pada tahun 2020 dinobatkan sebagai Ballon dOr Dream Team. Ia menghabiskan seluruh karier profesionalnya bersama Barcelona, di mana ia memenangkan 34 piala, termasuk sepuluh gelar La Liga, tujuh gelar Copa del Rey dan empat Liga Champions UEFA</item>
+        <item>Luis Alberto Suárez Díaz (pengucapan bahasa Spanyol: [ˈlwis ˈswaɾes]; lahir 24 Januari 1987) adalah seorang pemain sepak bola profesional Uruguay. Ia dianggap luas sebagai salah satu pemain terbaik di FC Barcelona dan juga merupakan salah satu penyerang terbaik dalam generasinya, dikenal dengan kemahirannya, tendangan dan operannya. Suárez telah memenangkan dua Sepatu Emas Eropa, Sepatu Emas Eredivisie, Sepatu Emas EPL, dan Trofi Pichichi.</item>
+        <item>Neymar da Silva Santos Júnior (pengucapan bahasa Portugis: [nejˈmaʁ dɐ ˈsiwvɐ ˈsɐ̃tus ˈʒũɲoʁ] lahir 5 Februari 1992) yang umumnya dikenal sebagai Neymar atau Neymar Jr, adalah pemain sepak bola profesional Brasil. Pada usia 19 tahun, Neymar memenangkan Pemain terbaik Amerika Selatan tahun 2011, setelah berada di peringkat ketiga pada tahun 2010.[3] Dia masuk nominasi yang sama dan memenangkan lagi pada tahun 2012. Pada tahun 2011 Neymar menerima nominasi untuk FIFA Ballon dOr , di mana ia menempati urutan 10, dan FIFA Puskás Award untuk Goal of the Year, yang ia memenangkan.</item>
+        <item>ivan Rakitić (lahir 10 Maret 1988) adalah seorang pemain sepak bola berkewarganegaraan Kroasia kelahiran Swiss. Di tingkat internasional, Rakitic bermain untuk tim nasional Kroasia. Meskipun secara alami produk dari tingkat pemuda Swiss, Rakitic berjanji karier internasionalnya ke negara orang tuanya Kroasia gantinya. Dia melakukan debut untuk Kroasia pada tahun 2007 dan sejak itu mewakili negara pada UEFA Euro 2008, UEFA Euro 2012, Piala Dunia FIFA 2014, dan Piala Dunia FIFA 2018.</item>
+        <item>Xavier Hernández Creus (lahir 25 Januari 1980), lebih dikenal sebagai Xavi, adalah seorang manajer dan mantan pemain sepak bola profesional Spanyol yang saat ini menjadi manajer klub La Liga Barcelona. Bersama Barcelona, Xavi memenangkan delapan gelar La Liga dan empat gelar Liga Champions UEFA. Xavi berada di urutan ketiga pada penganugerahan Pemain Terbaik Dunia FIFA 2009, selanjutnya ia selalu berada di urutan ketiga pada penghargaan FIFA Ballon dOr 2010 dan 2011. Pada 2011, ia menjadi runner-up di belakang Lionel Messi pada ajang Penghargaan Pemain Terbaik UEFA di Eropa. </item>
+        <item>Andrés Iniesta Luján (lahir 11 Mei 1984) adalah pemain sepak bola Spanyol. Iniesta datang melalui akademi muda La Masia milik Barcelona, setelah emigrasi awal dari tempat kelahirannya dan mengesankan sejak usia dini. Dia membuat debut pertama timnya pada tahun 2002, berusia 18. Dia mulai bermain secara reguler selama musim 2004–2005, dan sejak itu menjadi pilihan utama. Dia adalah bagian dari kesuksesan Barcelona pada tahun 2009, satu-satunya musim di mana klub genap mencapai enam gelar dalam satu musim. Dia dianggap sebagai salah satu gelandang terbaik sepanjang masa, serta salah satu pemain terbaik dari generasinya.</item>
+        <item>Sergio Busquets (lahir 16 Juli 1988) merupakan seorang pemain sepak bola profesional asal Spanyol yang berposisi sebagai gelandang bertahan. Sergio telah bermain untuk berbagai tingkatan umur dari tim nasional Spanyol, yakni: U-19, U-20, U-21, dan senior. Ia termasuk dalam skuat Spanyol pada Piala Dunia FIFA 2010, 2014, 2018, dan 2022. Selain untuk Spanyol, Sergio juga bermain untuk Katalonia. Pada Tahun 2022, setelah Spanyol gagal di Piala Dunia 2022, Sergio memutuskan untuk pensiun dari Timnas Spanyol.</item>
+        <item>Gerard Piqué Bernabeu (lahir 2 Februari 1987) merupakan seorang pemain sepak bola berkebangsaan Spanyol yang dulu pernah membela klub Manchester United F.C.. Dia membela klub tersebut dari FC Barcelona B sejak 1 Juli 2004. Pada musim 2006–2007 dia dipinjamkan ke Real Zaragoza. Dia membela tim nasional Spanyol U17, U19, dan U21. Sekarang dia membela klub FC Barcelona dan menjadi salah satu pemain yang membawa Spanyol menjadi juara dalam Piala Dunia 2010 di Afrika Selatan.</item>
+        <item>Daniel Alves da Silva (lahir 6 Mei 1983), umumnya dikenal sebagai Dani Alves, adalah seorang pemain sepak bola Brasil. Sebelum bergabung dengan Barcelona, Alves menghabiskan enam tahun kesuksesan dengan Sevilla, memenangkan dua Piala UEFA dan Copa del Rey dengan tim Andalusia tersebut. Dia bergabung dengan Barcelona seharga € 32.500.000,[3] menjadi bek ketiga paling mahal sepanjang masa. Ia memenangkan Treble sejak tahun 2005.</item>
+        <item>Jordi Alba Ramos (lahir 21 Maret 1989) adalah pemain sepak bola profesional Spanyol yang bermain sebagai bek kiri untuk klub Major League Soccer Inter Miami. Alba memulai karirnya di Barcelona, ​​tetapi dibebaskan. Setelah bergabung dengan Cornellà, dia berpindah ke Valencia. Pada tahun 2012 ia kembali ke Barcelona, dengan siapa ia telah memenangkan enam belas penghargaan utama, termasuk lima gelar La Liga, lima Copa del Rey dan satu Liga Champions UEFA.</item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+
+        <item>@drawable/messi</item>
+        <item>@drawable/suarez</item>
+        <item>@drawable/neymar</item>
+        <item>@drawable/rakitic</item>
+        <item>@drawable/xavi</item>
+        <item>@drawable/iniesta</item>
+        <item>@drawable/sergio</item>
+        <item>@drawable/pique</item>
+        <item>@drawable/alves</item>
+        <item>@drawable/jordi</item>
+
+    </integer-array>
+    <string name="peserta">Muhammad</string>
+    <string name="player">muhammadahjahh@gmail.com</string>
+</resources>
